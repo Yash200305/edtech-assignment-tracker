@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "description": "Frontend for EdTech Assignment Tracker using React and Tailwind CSS",
+  "homepage": "https://Yash200305.github.io/edtech-assignment-tracker",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
